@@ -1,0 +1,16 @@
+Lista 02 - Abstração de Dados e de Procedimentos
+
+Questão 1-
+
+	classe:
+	abstração de dados(atributos):
+	abstração de processos(métodos):
+
+a) 	classe: 		ContaCorrente
+	abstração de dados:	Numero: int 	
+				Saldo: float
+				Status: string
+				Limite: float
+
+* qual o nome pra carimbo?
+* voce instancia quando coloca o new.
