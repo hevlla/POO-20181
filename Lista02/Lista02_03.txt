@@ -1,0 +1,33 @@
+a)
+nome: string
+altura: float
+cor: string
+sexo: boolean
+idade: int
+setNome(string)
+setAltura(float)
+setCor(string)
+setSexo(boolean)
+setIdade(int)
+getNome(): string
+getAltura(): float
+getCor(): string
+getSexo(): boolean
+getIdade(): int
+
+b)
+nucleo_familiar: pessoa[] array
+setPai(pessoa)
+setMae(pessoa)
+setFilhos(pessoa[] array)
+getPai(): pessoa
+getMae(): pessoa
+getFilhos(): pessoa[] array
+
+c)familia: nucleo_familiar[] array
+setAvos(pessoa[] array)
+setTios(pessoa[] array)
+setPrimos(pessoa[] array)
+getAvos(): pessoa[] array
+getTios(): pessoa[] array
+getPrimos(): pessoa[] array

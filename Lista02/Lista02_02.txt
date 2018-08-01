@@ -1,0 +1,14 @@
+a)
+nome: string
+capital: string
+dimensao: double
+fronteiras: string[] array
+setNome(string)
+getNome(): string
+getCapital(): string
+getFronteiras(): string[] array
+
+b)
+continente: pais[] array
+setPaises(pais)
+getPaises(): pais[] array

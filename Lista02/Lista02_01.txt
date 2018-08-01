@@ -1,0 +1,31 @@
+a)
+numero: int
+saldo: double
+status: boolean
+limite: double
+setSaldo(double)
+setStatus(boolean)
+setLimite(double)
+getSaldo(): double
+getStatus(): boolean
+getLimite(): double
+
+b)
+descriçao: string
+valor: double
+info: boolean
+setDescriçao(string)
+setValor(double)
+setInfo(boolean)
+getDescriçao(): string
+getValor(): double
+getInfo(): boolean
+
+c)
+banco: conta[] array
+criaConta(): conta
+excConta(): null
+saque(double)
+deposito(double)
+getSaldo(): double
+getExtrato(): double
